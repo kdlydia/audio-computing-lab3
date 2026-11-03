@@ -1,0 +1,5 @@
+# track only the lab 3 assignment
+*
+!.gitignore
+!lab_3.ipynb
+!chirp_bathroom_20Hz_20kHz.wav
