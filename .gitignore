@@ -2,6 +2,6 @@
 *
 !.gitignore
 !lab_3.ipynb
-!chirp_exp_20hz-20khz_4s.wav
+!chirp_exp_40hz-20khz_5s.wav
 !bathroom_chirp_recording.wav
 !bathroom_balloon_recording.wav
